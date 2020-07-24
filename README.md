@@ -11,7 +11,7 @@ How to Use GUI
                       choose any or all of rest of text choices
                       (each number separated by spaces) to represent desired new values, select ENTER.
                      
-# UPDATE 2 - June  #
+# UPDATE 2 - June 18 #
 
 Main Method - Excellence
   - We maintained Excellence as the main method, as it required no changes to work properly with the
